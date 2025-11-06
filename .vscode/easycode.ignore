@@ -10,3 +10,4 @@ cache/
 *.bundle-min.*
 *.log
 package-lock.json
+.vscode
