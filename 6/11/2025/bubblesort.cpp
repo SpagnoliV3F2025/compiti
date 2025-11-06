@@ -28,7 +28,5 @@ int main() {
         cout << valori[indice];
     }
     cout << '\n';
-
-    delete[] valori;
     return 0;
 }
